@@ -1,0 +1,18 @@
+body
+{
+  color: white;
+  background:purple;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  width: 350px;
+  height: 300px; 
+}
+
+#Emoji,#Emotion{
+  font-size: 50px;
+}
